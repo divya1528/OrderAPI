@@ -31,6 +31,8 @@ API Response:
 ```
 GET
 http://localhost:5000/api/v1
+Headers:
+Authorization: Bearer {token}
 ```
 
 API Response:
